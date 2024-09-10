@@ -1,0 +1,9 @@
+*.class
+	*.pyc
+	*.bak
+	*.tmp
+	*tmplate*
+	*[#~]
+	*.[#~]
+	node_modules/
+	tmp/

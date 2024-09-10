@@ -1,0 +1,19 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-10
+    # File: 011.txt
+
+1.1 Starting Git
+
+    A. git config --global user.name <username>
+    git config --global user.email <email@.com>
+
+    B. git config --global core.excludesfile ~/.gitignore
+    echo "*.class" >> ~/.gitignore
+ 
+    C. git config --global alias.b branch
+    git config --global alias.ci commit
+    git config --global alias.co checkout
+    git config --global alias.cp cherry-pick
+    git config --global alias.st "status --short --branch"
+
+    # End of file
