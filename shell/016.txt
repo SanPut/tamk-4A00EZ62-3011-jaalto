@@ -1,5 +1,9 @@
     # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
     # Date: 2024-09-10
-    # File: 011.txt
+    # File: 016.txt
+
+    1.6 Search
+
+    Key binding: C-w = control and <key w>
 
     # End of file
