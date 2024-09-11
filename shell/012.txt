@@ -2,15 +2,16 @@
     # Date: 2024-09-10
     # File: 012.txt
 
-  1.2 Create file nano-test.txt and explain command line options
+    1.2 Create file nano-test.txt and explain command line options
 
-  Explain what each of the option does by quoting manual page:
+    Explain what each of the option does by quoting manual page:
 
     nano -E -T 4 -i -I nano-test.txt
 
-    Content: -E = Convert each typed tab to spaces
-	     -T = Set the displayed tab length to number columns
-	     -i = Automatically indent a newly created line to the same number of tabs and/or spaces as the previous line
-	     -I = Don’t look at the system’s nanorc file nor at the user’s nanorc
+    Content:
+    -E = Convert each typed tab to spaces
+	  -T = Set the displayed tab length to number columns
+	  -i = Automatically indent a newly created line to the same number of tabs and/or spaces as the previous line
+	  -I = Don’t look at the system’s nanorc file nor at the user’s nanorc
 
     # End of file

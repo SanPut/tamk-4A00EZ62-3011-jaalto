@@ -4,6 +4,6 @@
 
     1.3 Cut or kill line(s)
 
-        Key binding: C-k = Control and <key k> (press k once for single line, press k multiple times to cut more lines)
+    Key binding: C-k = Control and <key k> (press k once for single line, press k multiple times to cut more lines)
 
     # End of file
