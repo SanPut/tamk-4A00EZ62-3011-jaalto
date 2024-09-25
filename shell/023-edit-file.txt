@@ -1,0 +1,10 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-19
+    # File: 023.txt
+    
+    Line up all the colons(:) characters:
+    Ctrl + v = enter block visualizer
+    arrow keys = select the block of text
+    Shift + i and space = align the colons
+
+    # End of file
