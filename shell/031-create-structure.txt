@@ -1,0 +1,10 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-19
+    # File: 031.txt
+
+    mkdir -p $HOME/tmp/test1/dir1 \
+         $HOME/tmp/test1/dir2/doc1 \
+         $HOME/tmp/test1/dir2/doc2/test/more \
+         $HOME/tmp/test1/dir3/html
+
+    # End of file
