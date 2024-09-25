@@ -1,0 +1,10 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-10
+    # File: 019.txt
+
+    1.9 Explain what M-k binding does
+
+    <In one paragraph explain what behavior it affects: if set on or off>
+    Cut to end enabled/ Cut to end disabled
+
+    # End of file
