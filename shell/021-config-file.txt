@@ -1,0 +1,8 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-19
+    # File: 021.txt
+
+    A: /home/user/.vimrc
+    B: set ts=4 sw=4 
+
+    # End of file
