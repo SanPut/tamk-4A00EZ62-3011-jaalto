@@ -1,0 +1,9 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-19
+    # File: 022.txt
+    
+    1. i = Enter insert mode
+    2. esc = exit instert mode
+    3. :wq and enter = save and exit    
+
+    # End of file
