@@ -1,9 +1,0 @@
-    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
-    # Date: 2024-09-10
-    # File: 017.txt
-
-    1.7 Toggle line numbers
-
-    Key binding: M-n = Meta key (susally ALT) and <key n>
-
-    # End of file
