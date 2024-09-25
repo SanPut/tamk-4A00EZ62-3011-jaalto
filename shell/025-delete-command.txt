@@ -1,0 +1,8 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-19
+    # File: 025.txt
+
+    A. dd = delete the current line
+    B. i = insert mode, edit the line
+
+    # End of file
