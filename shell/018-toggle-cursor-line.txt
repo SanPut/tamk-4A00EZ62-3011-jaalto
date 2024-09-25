@@ -1,0 +1,9 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-10
+    # File: 018.txt
+
+    1.8 Toggle showing cursor line/column info at the bottom
+
+    Key binding: C-c = Control and <key c>
+
+    # End of file
