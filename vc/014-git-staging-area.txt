@@ -1,0 +1,13 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-29
+    # File: 014.txt
+
+    A. Area where changes are gathered before they are committed to the repository.
+       It allows you to prepare and review changes before finalizing them with a commit
+    
+    B. git reset HEAD <file>
+
+    C. git reset HEAD <file>
+       git checkout -- <file>
+
+    # End of file
