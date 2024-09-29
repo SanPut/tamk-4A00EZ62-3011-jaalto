@@ -1,0 +1,25 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-10
+    # File: 011.txt
+
+    A. Define in Git user's "name" and "email"
+
+    git config --global user.name <username>
+    git config --global user.email <email@.com>
+
+    B. Define in Git's user configuration file the parameter
+    "excludesfile" and point it to global ~/.gitignore. Add to
+    ~/.gitignore at least one wild card to ignore Java's *.class files.
+
+    git config --global core.excludesfile ~/.gitignore
+    echo "*.class" >> ~/.gitignore
+ 
+    C. Add couple of aliases to Git's user's configuration file:
+
+    git config --global alias.b branch
+    git config --global alias.ci commit
+    git config --global alias.co checkout
+    git config --global alias.cp cherry-pick
+    git config --global alias.st "status --short --branch"
+
+    # End of file
