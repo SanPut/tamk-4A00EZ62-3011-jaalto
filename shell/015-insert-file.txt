@@ -1,0 +1,7 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-10
+    # File: 015.txt
+
+    Key binding: C-r = control and <key w>
+
+    # End of file
