@@ -1,0 +1,16 @@
+    # Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+    # Date: 2024-09-29
+    # File: 015.txt
+
+    A. git branch
+
+    B. git checkout master
+       git checkout -b devel
+
+    C. Master is considered the stable brach, working in this branch increases the 
+       risk of bugs
+
+       Using seperate branches allows multiple devs to work on different parts of the project
+       without interfering with eachothers work
+
+    # End of file
