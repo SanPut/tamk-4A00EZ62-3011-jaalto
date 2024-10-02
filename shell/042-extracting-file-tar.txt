@@ -1,0 +1,8 @@
+# Author: Santeri Puttonen <santeri.puttonne@tuni.fi>
+# Date: 2024-10-02
+# File: 0420-extracting-file-tar.txt
+
+extracting one file from TAR archive:
+tar -xf archive.tar.gz ./README
+
+# End of file
