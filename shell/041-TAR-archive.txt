@@ -1,0 +1,12 @@
+# Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+# Date: 2024-10-02
+# File: 041-TAR-archive.txt
+
+Make directory structure:
+mkdir -p project/doc project/src
+touch project/README project/doc/manual.txt project/src/Main.java
+
+Create tar archive:
+tar -czvf archive.tar.gz -C project .
+
+# End of file
