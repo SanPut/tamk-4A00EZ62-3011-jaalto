@@ -1,0 +1,10 @@
+# Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+# Date: 2024-10-09
+# File: 017-branches-rebase.txt
+
+rebasing is moving or combining commits to new base commit
+
+git checkout feature
+git rebase devel
+
+# End of file
