@@ -1,0 +1,13 @@
+# Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+# Date: 2024-10-09
+# File: 021-release.txt
+
+A. git tag release/1.0.0
+
+B. git tag
+
+C. git log -r release/1.0.0
+
+D. git diff -r release/1.0.0 -r "release/1.0.0~2"
+
+# End of file
