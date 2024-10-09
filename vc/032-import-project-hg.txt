@@ -1,0 +1,13 @@
+# Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+# Date: 2024-10-09
+# File: 032-import-project-hg.txt
+
+mkdir -p project.hg/doc project.hg/src project.hg/web/pic
+touch project.hg/doc/doc.txt project.hg/doc/test.rtf
+touch project.hg/src/Program.java project.hg/src/Class1.java project.hg/src/Class2.java
+touch project.hg/web/index.html project.hg/web/pic/image.jpg
+
+hg add
+hg commit -m "message"
+
+#End of file
