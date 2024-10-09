@@ -1,0 +1,18 @@
+# Author: Santeri Puttonen <santeri.puttonen@tuni.fi>
+# Date: 2024-10-09
+# File: 022-starting-hg.txt
+
+A. 
+[ui]
+username = Your Name <user.emai@example.com>
+
+B. ~/.hgrc
+
+C.
+[extensions]
+color = green
+
+[paths]
+default = https://path.to/your/repo
+
+#End of file
